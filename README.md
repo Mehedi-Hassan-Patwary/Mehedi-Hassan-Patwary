@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehedi-hassan-patwary&label=Profile%20views&color=0e75b6&style=flat" alt="mehedi-hassan-patwary" /> </p>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **md.mehedi.hassan.patwary.cse@gmail.com**
 
